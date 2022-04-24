@@ -213,7 +213,7 @@ In Progress:
 |Brasil||||||
 |Breath of Fire||||||
 |Broken Sword||||||
-||Bruce Lee||||||
+|Bruce Lee||||||
 |Burnout||||||
 |Cadillacs||||||
 |California Games||||||
@@ -339,7 +339,7 @@ In Progress:
 |Marvel||||||
 |Medal of Honor||||||
 |Mega Man||||||
-||Metal Gear||||||
+|Metal Gear||||||
 |Metal Slug||||||
 |Metroid||||||
 |Mickey||||||
@@ -561,7 +561,7 @@ _sounds
 |camplynx
 |cannonball
 |capcom
-||cave
+|cave
 |cave3rd
 |cavestory
 |cdi
@@ -625,10 +625,10 @@ _sounds
 |imageviewer
 |incredibletech
 |instructions
-|||intellivision
+|intellivision
 |irem
 |jaleco
-|||kaneko
+|kaneko
 |konami
 |lcdgames
 |lightgun
@@ -698,7 +698,7 @@ _sounds
 |qmaster
 |residualvm
 |samcoupe
-||sammy
+|sammy
 |satellaview
 |saturn
 |sc-300
@@ -710,9 +710,9 @@ _sounds
 |segacd
 |segastv
 |seibukaihatsu
-||semicom
+|semicom
 |setup
-|||||sfc
+|sfc
 |sg-1000
 |sgb
 |snes
