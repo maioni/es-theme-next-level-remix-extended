@@ -164,7 +164,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |zxspectrum|X|X|X|X|X|
 
 In Progress:
-
+## Collection Status
+|*name*|*Logos*|*ConsoleArt*|*StandardArt*|*Sounds*|*SystemInfo*|
+|------|-------|------------|-------------|--------|------------|
 |007||||||
 |19XX||||||
 |3do||||||
