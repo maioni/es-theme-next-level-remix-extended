@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Release Date: 1000 (1985), 500/2000 (1987), 3000 (1990), 4000/600 (1992)</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Developer: Commodore</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU: Motorola 680XX</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Memory: 256KB up to 18MB</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Graphics: Various</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Sound: Various</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Media: Floppy</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The original models were part of a wave of 16- and 32-bit computers </text> .
+		</text>
+		<text name="info10" extra="true">
+			<text>that featured 256 KB or more of RAM, mouse-based GUIs, and significantly</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>improved graphics and audio over 8-bit systems.</text>
+		</text>
+	</view>
+</theme>

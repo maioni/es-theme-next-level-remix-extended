@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<filter name="Final Fantasy">
+	<text>FINAL FANTASY</text>
+	<genre>MUSIC</genre>
+	<genre>LUTA</genre>
+	<genre>JOGOS DE RPG</genre>
+	<genre>ADVENTURE</genre>
+	<genre>AVENTURA</genre>
+	<genre>ACTION RPG</genre>
+	<genre>ROLE-PLAYING</genre>
+	<genre>MÚSICA E DANÇA</genre>
+	<genre>JOGO DE TABULEIRO</genre>
+	<genre>FIGHTING, UNOFFICIAL</genre>
+	<genre>FIGHTING</genre>
+</filter>

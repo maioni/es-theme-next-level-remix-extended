@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<filter name="Sonic">
+	<system>gamegear</system>
+	<system>segacd</system>
+	<system>megadrive</system>
+	<system>mastersystem</system>
+	<system>3do</system>
+	<system>openbor</system>
+	<system>snes-msu1</system>
+	<system>gb</system>
+	<system>gamecube</system>
+	<system>model3</system>
+	<system>snes</system>
+	<system>ps2</system>
+	<system>gb2players</system>
+	<system>satellaview</system>
+	<system>dreamcast</system>
+	<system>n64</system>
+	<system>naomi</system>
+	<system>ps3</system>
+	<system>psx</system>
+	<system>tic80</system>
+	<system>gba</system>
+	<system>psp</system>
+	<system>windows</system>
+	<system>gbc</system>
+	<system>fbneo</system>
+	<system>wiiu</system>
+	<system>3ds</system>
+	<system>virtualboy</system>
+	<system>gbc2players</system>
+	<system>wii</system>
+	<system>sega32x</system>
+	<system>sg1000</system>
+	<system>pico8</system>
+	<system>pokemini</system>
+	<system>nds</system>
+	<system>saturn</system>
+	<system>mame</system>
+	<text>SONIC</text>
+	<genre>QUEBRA-CABEÇAS</genre>
+	<genre>PLATAFORMA / CORRE E PULA COM ROLAGEM</genre>
+	<genre>PLATAFORMA / CORRE E PULA</genre>
+	<genre>PINBALL</genre>
+	<genre>LUTA</genre>
+	<genre>JOGOS DE RPG</genre>
+	<genre>JOGO DE TABULEIRO</genre>
+	<genre>JOGO DE CARTAS</genre>
+	<genre>JOGO CASUAL</genre>
+	<genre>ESPORTE</genre>
+	<genre>ESPORTE / COMBATE</genre>
+	<genre>CORRIDA, PILOTAGEM / CORRIDA</genre>
+	<genre>BRIGA DE RUA</genre>
+	<vertical>FALSE</vertical>
+</filter>

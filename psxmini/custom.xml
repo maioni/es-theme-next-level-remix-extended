@@ -1,0 +1,48 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: December 3, 1994</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Sony Computer Entertainment</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: MIPS R3000A compatible 32-bit RISC CPU</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 2 MB RAM, 1 MB video RAM</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 32-bit Sony GPU</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: 16-bit Sony SPU, 24 channel ADPCM</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: CD-ROM</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The PlayStation was the first of the PS lineup of home video game</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>consoles. It primarily competed with the Nintendo 64 and the Sega</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Saturn as part of the fifth generation of video game consoles.</text>
+		</text>
+
+	</view>
+</theme>

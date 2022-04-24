@@ -1,0 +1,50 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: June 16, 1983</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Microsoft Japan, Sanyo</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Zilog Z80</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 8-512 KB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: Texas Instruments TMS9918</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: General Instrument AY-3-8910</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: Floppy disk, Datasette, Cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+
+		<text name="info9" extra="true">
+			<text>MSX is a standardized home computer architecture, announced by Microsoft</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>MSX systems were popular in Japan and several other countries. Despite</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Microsoft's involvement, few MSX-based machines were released in the US.</text>
+		</text>
+
+	</view>
+
+</theme>

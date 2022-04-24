@@ -1,0 +1,48 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+
+		<text name="info1" extra="true">
+			<text>Release Date: December 12, 2004</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Sony Computer Entertainment</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: 20-333 MHz MIPS R4000</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 32 MB; 64 MB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 480 × 272 pixels</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Stereo speakers, mono speaker</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: UMD, digital distribution</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The PSP is a handheld game console that competed with the Nintendo DS</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>as part of the seventh generation of video-game consoles.</text>
+		</text>
+
+	</view>
+
+
+</theme>

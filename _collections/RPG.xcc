@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<filter name="RPG">
+	<genre>ROLE-PLAYING</genre>
+	<genre>ACTION RPG</genre>
+	<genre>JOGOS DE RPG</genre>
+</filter>

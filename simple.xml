@@ -1,10 +1,11 @@
 ﻿<!--
 theme name:		NEXT LEVEL
-version:		2.0
+version:		3.0
 Description:	Based on Simple 1.4 theme by nils bonenberger (nilsbyte@nilsbyte.de)
 author:			Gaëtan at KOT Production
 Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCakeTV
 -->
+
 
 <theme>
 	<formatVersion>7</formatVersion>
@@ -26,31 +27,31 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		<text name="systemInfo">
 			<pos>0.0 0.61</pos>
 			<backgroundColor>00000000</backgroundColor>
-			<color>ECECEC</color>
+			<color>DFECFA</color>
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-			<fontSize>0.02</fontSize>
+			<fontSize>0.005</fontSize>
 		</text>
 		<menuText name="menufooter">
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
-			<color>777777FF</color>
+			<color>FFFFFFFF</color>
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-			<fontSize>0.023</fontSize>
-			<color>DFDCDC</color>
+			<fontSize>0.02</fontSize>
+			<color>DFECFA</color>
 			<separatorColor>555555FF</separatorColor>
 			<selectorColor>006ca3</selectorColor>
-			<selectedColor>FFFFFF</selectedColor>
+			<selectedColor>deec00</selectedColor>
 		</menuText>
 		<menuTextSmall name="menutextsmall">
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-			<fontSize>0.028</fontSize>
+			<fontSize>0.017</fontSize>
 			<color>deec00</color>
 		</menuTextSmall>
 		<menuText name="menutitle">
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-			<fontSize>0.037</fontSize>
+			<fontSize>0.024</fontSize>
 			<color>DFECFA</color>
 		</menuText>
 		<menuBackground name="menubg">
@@ -64,11 +65,11 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<path>./sounds/system.ogg</path>
 		</sound>
 		<helpsystem name="help">
-			<textColor>8e8e8e</textColor>
-			<iconColor>8e8e8e</iconColor>
+			<textColor>FFFFFF</textColor>
+			<iconColor>FFFFFF</iconColor>
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.014</fontSize>
-			<pos>0.36 0.978</pos>
+			<pos>0.0036 0.978</pos>
 		</helpsystem>
 	</view>
 

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<filter name="Cruisn">
+	<text>CRUIS</text>
+	<genre>RACE, DRIVING / RACE 1ST PERS. VIEW</genre>
+	<genre>RACE, DRIVING / RACE 3RD PERS. VIEW</genre>
+	<genre>RACE, DRIVING / RACE</genre>
+	<genre>RACE, DRIVING / MOTORCYCLE RACE, 3RD PERS.</genre>
+	<genre>RACE, DRIVING / MOTORCYCLE RACE, 1ST PERS.</genre>
+	<genre>RACE, DRIVING / MOTORCYCLE</genre>
+	<genre>RACE, DRIVING</genre>
+</filter>

@@ -1,0 +1,52 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+			<text name="info1" extra="true">
+				<text>Release Date: November 21, 1990</text>
+			</text>
+			
+			<text name="info2" extra="true">
+				<text>Developer: Nintendo</text>
+			</text>
+			
+			<text name="info3" extra="true">
+				<text>CPU: Ricoh 5A22</text>
+			</text>
+			
+			<text name="info4" extra="true">
+				<text>Memory: 128 KB DRAM, 64 KB SRAM</text>
+			</text>
+			
+			<text name="info5" extra="true">
+				<text>Graphics: 16 bit PPU</text>
+			</text>
+			
+			<text name="info6" extra="true">
+				<text>Sound: Sony SPC700 and Sony DSP</text>
+			</text>
+			
+			<text name="info7" extra="true">
+				<text>Media: Cartridge</text>
+			</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+			<text name="info9" extra="true">
+				<text>The SNES is a 16-bit home video game console. In Japan, the system is</text>
+			</text>
+		
+			<text name="info10" extra="true">
+				<text>called the Super Famicom. Although each version is essentially the same,</text>
+			</text>
+			
+			<text name="info11" extra="true">
+				<text>regional lockout prevents them from being compatible with one another.</text>
+			</text>
+		
+	</view>
+
+	
+</theme>

@@ -43,13 +43,15 @@
       <maxSize>0.4 0.4</maxSize>
       <origin>0 0</origin>
     </image>
-	    <video name="md_video">
+	
+	<video name="md_video">
 		<pos>0.480 0.450</pos>
       <maxSize>0.3 0.3</maxSize>
       <origin>0.5 0.5</origin>
-      <delay>0.0</delay>
-      <showSnapshotNoVideo>true</showSnapshotNoVideo>
-      <showSnapshotDelay>true</showSnapshotDelay>
+         <delay>0.0</delay>
+
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
     </video>
     <text name="md_lbl_rating">
       <pos>10 0</pos>

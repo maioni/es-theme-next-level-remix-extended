@@ -1,0 +1,49 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: June 11, 2001</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Nintendo</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: ARM7TDMi and Z80 co-processor</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 32 KB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: Custom 2D core</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Dual 8-bit DAC plus</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: Cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Game Boy Advance is a 32-bit handheld video game console.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Nintendo's had many competitors in the market at the time.</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Despite the competitors' best efforts, Nintendo held a majority market share.</text>
+		</text>
+
+	</view>
+
+</theme>

@@ -1,0 +1,75 @@
+﻿<!--
+theme name:		NEXT LEVEL
+version:		2.0
+Description:	Based on Simple 1.4 theme by nils bonenberger (nilsbyte@nilsbyte.de)
+author:			Gaëtan at KOT Production
+Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCakeTV
+-->
+
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<include>./config.xml</include>
+	<include>./views.xml</include>
+	<include>./${system.theme}/custom.xml</include>
+
+	<view name="screen">
+		<controllerActivity name="controllerActivity">
+			<itemSpacing>0.003</itemSpacing>
+			<color>FFFFFF80</color>
+			<activityColor>3030FFD0</activityColor>
+			<hotkeyColor>3030FFD0</hotkeyColor>
+		</controllerActivity>
+	</view>
+
+	<view name="menu">
+		<text name="systemInfo">
+			<pos>0.0 0.61</pos>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.019</fontSize>
+		</text>
+		<menuText name="menufooter">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.019</fontSize>
+			<color>777777FF</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>DFDCDC</color>
+			<separatorColor>555555FF</separatorColor>
+			<selectorColor>006ca3</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.017</fontSize>
+			<color>deec00</color>
+		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.024</fontSize>
+			<color>DFECFA</color>
+		</menuText>
+		<menuBackground name="menubg">
+			<color>2D2C2C</color>
+			<path>./_inc/images/frame.png</path>
+			<fadePath>./_inc/images/fond_menu.png</fadePath>
+		</menuBackground>
+	</view>
+	<view name="system">
+		<sound name="bgsound">
+			<path>./sounds/system.ogg</path>
+		</sound>
+		<helpsystem name="help">
+			<textColor>8e8e8e</textColor>
+			<iconColor>8e8e8e</iconColor>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.014</fontSize>
+			<pos>0.36 0.978</pos>
+		</helpsystem>
+	</view>
+
+</theme>

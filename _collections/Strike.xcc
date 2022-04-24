@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="Strike">
+	<text>STRIKE</text>
+	<genre>SHOOTER</genre>
+	<genre>SHOOT'EM UP</genre>
+	<genre>ACTION</genre>
+</filter>

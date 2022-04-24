@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Release Date: October 1992</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Developer: Commodore</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU: Motorola 68EC020</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Memory: 2MB</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Graphics: Amiga Advanced Graphics Architecture</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Sound: 4 × 8-bit PCM channels</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Media: Floppy</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Amiga 1200 is a 32 bit design, using a faster processor than its</text> .
+		</text>
+		<text name="info10" extra="true">
+			<text>predecessors. The AGA chipset used in the A1200 was a significant</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>improvement over prior generations.</text>
+		</text>
+	</view>
+</theme>

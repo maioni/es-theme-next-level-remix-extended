@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<filter name="Chrono">
+	<system>ps3</system>
+	<system>psp</system>
+	<system>wii</system>
+	<system>pokemini</system>
+	<system>nds</system>
+	<system>fds</system>
+	<system>ps2</system>
+	<system>snes</system>
+	<system>nes</system>
+	<system>gb2players</system>
+	<system>snes-msu1</system>
+	<system>gb</system>
+	<system>gamecube</system>
+	<system>satellaview</system>
+	<system>n64</system>
+	<system>3ds</system>
+	<system>gbc</system>
+	<system>virtualboy</system>
+	<system>gbc2players</system>
+	<system>psx</system>
+	<system>gba</system>
+	<text>CHRONO</text>
+</filter>

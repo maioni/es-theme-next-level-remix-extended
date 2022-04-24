@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<filter name="Soul Calibur">
+	<system>ps3</system>
+	<system>ps2</system>
+	<system>naomi</system>
+	<system>psp</system>
+	<system>model3</system>
+	<system>wiiu</system>
+	<system>wii</system>
+	<system>dreamcast</system>
+	<system>gamecube</system>
+	<text>SOUL</text>
+	<genre>SPORTS / FIGHTING</genre>
+	<genre>FIGHT</genre>
+</filter>
