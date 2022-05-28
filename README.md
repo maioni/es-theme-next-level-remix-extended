@@ -16,7 +16,7 @@ https://www.facebook.com/kotproduction/
 TheMiniCakeTV - Modifications to Next Level Theme
 http://theminicaketv.free.fr/
 
-Ckau - the views beyond basic and detailed
+Ckau - the views beyond basic and detailed, also some wallpapers and logos
 https://github.com/CkauNui/ckau-book
 
 SamYStudiO - Some inspiration for the information blocks
