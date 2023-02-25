@@ -59,6 +59,10 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<path>./_inc/images/frame.png</path>
 			<fadePath>./_inc/images/fond_menu.png</fadePath>
 		</menuBackground>
+		<menuTextEdit name="menutextedit">
+			<inactive>./_inc/images/textinput_ninepatch.png</inactive>
+			<active>./_inc/images/textinput_ninepatch_active.png</active>
+		</menuTextEdit>
 	</view>
 	<view name="system">
 		<sound name="bgsound">
