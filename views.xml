@@ -197,8 +197,8 @@
 			<origin>0.5 0.5</origin>
 			<delay>0.1</delay>
 			<default>./_inc/videos/static.mp4</default>
-			<showSnapshotNoVideo>false</showSnapshotNoVideo>
-			<showSnapshotDelay>false</showSnapshotDelay>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>true</showSnapshotDelay>
 			<effect>none</effect>
 			<zIndex>110</zIndex>
 		</video>
